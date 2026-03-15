@@ -1,0 +1,1 @@
+SELECT * FROM `projeto-de-pipeline.schema.chamadas` 
